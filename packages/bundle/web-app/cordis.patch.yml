@@ -259,6 +259,10 @@
     - id: ui-brand-official
       name: '@deepseek-ai/dsh-client-ui-brand-official'
 
+    # ちいかわ room: sidebar entry, main-panel page, and the app-wide wallpaper.
+    - id: ui-chiikawa
+      name: '@deepseek-ai/dsh-client-ui-chiikawa'
+
     - id: ui-attachment
       name: '@deepseek-ai/dsh-client-ui-attachment'
 
